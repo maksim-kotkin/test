@@ -1,2 +1,3 @@
 # Hello, world! 
-pritn(hello world)
+print(hello world)
+I study in Netology

@@ -1,3 +1,5 @@
 # Hello, world! 
-print(hello world)
+
 I study in Netology
+
+31.03.2023
